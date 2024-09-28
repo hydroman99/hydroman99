@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hydroman99
-- 👀 I’m interested in QA Engineering
-- 🌱 I’m currently learning SQL
+- 👀 I’m interested in QA automation
+- 🌱 I’m currently learning JS Playwright
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
